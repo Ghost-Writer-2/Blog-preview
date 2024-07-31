@@ -2,6 +2,8 @@
 
 * {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 
@@ -12,6 +14,7 @@ body {
   justify-content: center;
   align-items: center;
   background-color: hsl(47, 88%, 63%);
+  height: 100%;
 }
 
 p {
@@ -40,7 +43,6 @@ h2 {
   background-color: hsl(0, 0%, 100%);
   max-width: 23rem;
   height: auto;
-  margin-top: 7vh;
   padding-top: 15px;
   border-radius: 15px;
   border: 2px solid  #000;
