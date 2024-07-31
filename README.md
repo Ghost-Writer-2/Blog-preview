@@ -6,7 +6,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -14,12 +13,11 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Code](https://github.com/Ghost-Writer-2/Blog-preview.git)
+- Live Site URL: [Live](https://ghost-writer-2.github.io/Blog-preview/)
 
 ## My process
 
@@ -61,11 +59,10 @@ I want to improve my ability to create Responsive layouts and use Javascript to 
 
 ### Useful resources
 
-- [Stackoverflow](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Stackoverflow](https://stackoverflow.com) - This helped me in searching for solutions and tips. I really liked this pattern and will use it going forward.
+
 
 ## Author
 
 - Frontend Mentor - [@Ghost-writer-2](https://www.frontendmentor.io/profile/ghost-writer-2)
-- Discord - [@yourusername](https://www.twitter.com/yourusername)
 
