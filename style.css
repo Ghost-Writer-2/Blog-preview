@@ -41,7 +41,7 @@ h2 {
   align-items: center;
   justify-content: center;
   background-color: hsl(0, 0%, 100%);
-  width: max(18rem, 23rem);
+  max width: 22rem;
   height: auto;
   padding-top: 15px;
   border-radius: 15px;
