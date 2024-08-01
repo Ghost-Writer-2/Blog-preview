@@ -6,6 +6,9 @@
   padding: 0;
 }
 
+:root {
+  --spacing: 1.2rem;
+}
 
 
 body {
@@ -14,7 +17,7 @@ body {
   justify-content: center;
   align-items: center;
   background-color: hsl(47, 88%, 63%);
-  height: 100%;
+  height: 100vh;
 }
 
 p {
@@ -24,6 +27,7 @@ p {
   font-optical-sizing: auto;
   font-weight: 500;
   font-style: normal;
+  margin-top: var(--spacing);
 }
 
 h2 {
@@ -31,6 +35,12 @@ h2 {
   font-optical-sizing: auto;
   font-weight: 800;
   font-style: normal;
+}
+
+p,
+h1,
+h2{
+  margin-bottom: var(--spacing);
 }
 
 
@@ -41,7 +51,7 @@ h2 {
   align-items: center;
   justify-content: center;
   background-color: hsl(0, 0%, 100%);
-  max width: 22rem;
+  width: max(75vw, 315px);
   height: auto;
   padding-top: 15px;
   border-radius: 15px;
