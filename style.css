@@ -52,6 +52,7 @@ h2{
   justify-content: center;
   background-color: hsl(0, 0%, 100%);
   width: max(75vw, 315px);
+  max-width: 24rem;
   height: auto;
   padding-top: 15px;
   border-radius: 15px;
